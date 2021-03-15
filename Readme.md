@@ -2,8 +2,8 @@ How to Run this application?
 
 Open terminal-1
 
-1) git clone https://github.com/masool/neosoft.git
-2) cd neosoft
+1) git clone https://github.com/masool/neosoft_assignment.git
+2) cd neosoft_assignment
 3) ./startFabric.sh --> this script will take care to launch Neo blockchain network wait till ouu get "NEO Network END" message.
 
 Open Terminal - 1
