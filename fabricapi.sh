@@ -1,10 +1,11 @@
-cd neosoft/javascript/wallet
+cd neosoft/javascript/wallet/
 
 rm -rf *
 
+cd ../
 echo "wallet keys has ben deleted"
 echo
-cd ../
+npm install
 sleep 2
 echo "run enroll admin for NOTARY"
 node enrollAdminNeo.js
@@ -13,6 +14,5 @@ echo "Run register user for NOATRY"
 node registerUserNeo.js
 echo
 echo "start npm"
-npm install
 echo
 npm start
