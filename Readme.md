@@ -1,3 +1,10 @@
+Pre-requisites:-
+
+. Docker: Docker version 19.03.13
+. docker-compose version 1.23.1
+. node version: v10.23.0
+. Postman Tool
+
 How to Run this application?
 
 Open terminal-1
