@@ -11,6 +11,8 @@ Open Terminal - 1
 1) ./fabricapi.sh --> This script will delete exisitng admin and user private and public keys and start web-app(Which connects to NODE SDK and Neo Blockchain Network)
 2) Please access postman colection from this repo and import it to postman
 
+To access CouchDB link:- http://127.0.0.1:5984/_utils/
+
 To Stop Network:
 
 1) Open terminal and go to project home director and then run script "./stopFabric.sh".
