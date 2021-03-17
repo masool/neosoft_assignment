@@ -1,2 +1,2 @@
 cd neosoft-network/
-./network.sh down
+sudo ./network.sh down
